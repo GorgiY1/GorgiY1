@@ -66,6 +66,6 @@ A production business website for an event design brand, built and customized fo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Georgiy_Oriabinskiy&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Contact
-- 🌐 Portfolio: [georgiyoriabinskiy.pp.ua](https://georgiyoriabinskiy.pp.ua/)
+- 🌐 Portfolio: [georgiyoriabinskiy.pp.ua](https://georgiyoriabinskiy.pp.ua/#contact)
 - 💻 GitHub: [github.com/GorgiY1](https://github.com/GorgiY1)
 - 📧 Email: [george.site.dev@gmail.com](mailto:george.site.dev@gmail.com)
