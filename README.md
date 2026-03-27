@@ -62,8 +62,8 @@ A production business website for an event design brand, built and customized fo
 - Live demo: [annsdecor.com](https://annsdecor.com/index.html)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Georgiy_Oriabinskiy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Georgiy_Oriabinskiy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GorgiY1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GorgiY1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ## Contact
 - 🌐 Portfolio: [georgiyoriabinskiy.pp.ua](https://georgiyoriabinskiy.pp.ua/#contact)
