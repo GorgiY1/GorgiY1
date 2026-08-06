@@ -1,4 +1,4 @@
-# Georgiy Oriabinskiy — Junior+/Middle .NET Full-Stack Developer
+# Georgiy Oriabinskiy — Full-Stack Developer
 I build business-focused web applications with ASP.NET Core and C#, from domain logic and APIs to production deployment.  
 My strongest work combines clean architecture, scheduling/business rules, and real-world delivery for client projects.
 
